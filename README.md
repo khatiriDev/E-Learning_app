@@ -1,5 +1,6 @@
-version 1.2.1
+Version 1.2.1
 -----------------------------------------------------------
-developed by amir khatiri
+Developed by Amir Khatiri
 -----------------------------------------------------------
-website: amirkhatiri.ir
+website: Amirkhatiri.ir
+-----------------------------------------------------------
